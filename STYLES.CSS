@@ -1,0 +1,22 @@
+*{
+    background-color:#d1dee2;
+}
+.hr{
+    border-style:none;
+    border-top: dotted;
+    border-color: grey;
+    border-width:5px;
+    width:20%;
+}
+h1{
+    color:#66bfbf
+}
+h2,h3 {
+    color:#1C315E;
+}
+.me{
+    text-align:center;
+    text-decoration: wavy;
+    font-weight: 1000;
+
+}
